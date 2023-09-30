@@ -1,8 +1,9 @@
-### Hello there, I'm Damir Karashev and this is my README 👀
+### Hello there, I'm Damir Karashev 
 
+---
 
-
-## I'm a novice developer!
-
-- ✍🏼 I’m currently studying [Tomsk State University](https://www.tsu.ru)
-- 💅🏼 I’m currently learning everything
+<details>
+  <summary> and this is my README 👀 </summary>
+  - ✍🏼 I’m currently studying [Tomsk State University](https://www.tsu.ru)
+  - 💅🏼 I’m currently learning everything
+</details>
