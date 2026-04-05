@@ -1,4 +1,9 @@
-<img align="left" src="https://raw.githubusercontent.com/dbkarashev/dbkarashev/main/assets/cat.gif" width="180">
+<table>
+<tr>
+<td width="220">
+<img src="https://raw.githubusercontent.com/dbkarashev/dbkarashev/main/assets/cat.gif" width="200">
+</td>
+<td>
 
 ### hey!
 
@@ -8,6 +13,8 @@ qa automation engineer — python, pytest, sql.
 
 learning ml & building things in swift.
 
-[site](https://dbkarashev.github.io) · [telegram](https://t.me/dbkarashev) · [resume](https://drive.google.com/drive/folders/1HjfwFlwy9-1UKpWB44DNY90Xa7vwa5JJ)
+[![website](https://img.shields.io/badge/website-dbkarashev.github.io-313131?style=flat&labelColor=313131&color=545454)](https://dbkarashev.github.io) [![telegram](https://img.shields.io/badge/telegram-dbkarashev-313131?style=flat&labelColor=313131&color=545454)](https://t.me/dbkarashev) [![email](https://img.shields.io/badge/email-dbkarashev@gmail.com-313131?style=flat&labelColor=313131&color=545454)](mailto:dbkarashev@gmail.com)
 
-<br clear="left">
+</td>
+</tr>
+</table>
