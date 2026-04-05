@@ -7,11 +7,11 @@
 
 ### hey!
 
-i'm **damir**
+i'm **damir**.
 
-qa automation engineer
+qa automation engineer — python, pytest, sql.
 
-learning ml
+learning ml & building things in swift.
 
 [![website](https://img.shields.io/badge/website-dbkarashev.github.io-313131?style=flat&labelColor=313131&color=545454)](https://dbkarashev.github.io) [![telegram](https://img.shields.io/badge/telegram-dbkarashev-313131?style=flat&labelColor=313131&color=545454)](https://t.me/dbkarashev) [![email](https://img.shields.io/badge/email-dbkarashev@gmail.com-313131?style=flat&labelColor=313131&color=545454)](mailto:dbkarashev@gmail.com)
 
