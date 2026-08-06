@@ -9,9 +9,9 @@
 
 i'm **damir**.
 
-qa automation engineer — python, pytest, sql.
+automation qa engineer — python, pytest, playwright, sql.
 
-learning ml & building things in swift.
+learning ml & building things with ai agents.
 
 [![telegram](https://img.shields.io/badge/telegram-dbkarashev-313131?style=flat&labelColor=313131&color=545454)](https://t.me/dbkarashev) [![email](https://img.shields.io/badge/email-dbkarashev@gmail.com-313131?style=flat&labelColor=313131&color=545454)](mailto:dbkarashev@gmail.com)
 
