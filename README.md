@@ -7,7 +7,7 @@
 
 ### hey!
 
-i'm **damir karashev**
+i'm **damir**
 
 exploring ml & building things with ai agents
 
