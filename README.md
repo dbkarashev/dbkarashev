@@ -11,9 +11,7 @@ i'm **damir**
 
 learning ml & building things
 
-let's talk
-
-[![telegram](https://img.shields.io/badge/telegram-dbkarashev-313131?style=flat&labelColor=313131&color=545454)](https://t.me/dbkarashev)
+[![say hi](https://img.shields.io/badge/say%20hi-👋-313131?style=for-the-badge&labelColor=313131&color=545454)](https://t.me/dbkarashev)
 
 </td>
 </tr>
