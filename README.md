@@ -9,7 +9,7 @@
 
 i'm **damir**.
 
-qa automation engineer from kazakhstan. 
+searching for qa engineer position rn. 
 
 exploring ml & building things with ai agents.
 
