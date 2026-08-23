@@ -7,9 +7,7 @@
 
 ### hey!
 
-i'm **damir**.
-
-searching for qa engineer position rn. 
+i'm **damir karashev**.
 
 exploring ml & building things with ai agents.
 
